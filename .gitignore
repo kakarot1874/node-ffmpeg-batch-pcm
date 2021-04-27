@@ -1,0 +1,6 @@
+resource/cn/*
+resource/en/*
+data/cn/*
+data/en/*
+data.json
+node_modules
